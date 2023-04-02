@@ -1,5 +1,5 @@
 # Darktide Launcher Skip
-A drop-in script to launch the launcher and automatically hit the "PLAY" button.
+A drop-in script to completely skip the launcher.
 
 ## Usage
 
@@ -26,3 +26,5 @@ C:\XboxGames\Warhammer 40,000- Darktide\Content\launcher
 
 ## Original launcher
 The original launcher has deliberately been left alone, so simply launch the game from Steam/Game Pass (without the shortcut) to view it.
+
+If you want to completely replace it, rename the original launcher to `Launcher-original.exe`, and `LauncherSkip.exe` to `Launcher.exe`. You will need to redo this each time the game updates or you run "Verify integrity of game files" in Steam.

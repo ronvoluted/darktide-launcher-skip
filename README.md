@@ -24,6 +24,8 @@ C:\XboxGames\Warhammer 40,000- Darktide\Content\launcher
 
 	b) Copy `LauncherSkip.exe`, navigate to any folder, then right-click and select "Paste shortcut".
 
+**Note:** It will not try to start Steam/Game Pass for you so they need to already be running.
+
 ## Original launcher
 The original launcher has deliberately been left alone, so simply launch the game from Steam/Game Pass (without the shortcut) to view it.
 
